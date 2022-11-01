@@ -1,0 +1,16 @@
+{
+    "Platform": "Amazon",
+    "Device": "PC 1",
+    "Device_ID": 29,
+    "Hyperloop": true,
+    "BluePopup": false,
+    "Mail": "",
+    "Mdp": "",
+    "Alerts": false,
+    "Proxy_mode": false,
+    "Proxy_type": "Socks5",
+    "min_skip": 35,
+    "max_skip": 60,
+    "Crash_status": false,
+    "Proxy_loc": ""
+}
