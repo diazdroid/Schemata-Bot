@@ -70,7 +70,7 @@ I addded a lot of features to train different skills. You'll find them in config
 
 
 # Legal
- This is illegal if you use this without the consent of the owners (in this case, the Spotify team).<br/>
+ This is illegal if you use this without the consent of the owners (in this case, the Spotify and Amazon teams).<br/>
  The software designed to perform website security testing.<br/>
  The author is not responsible for any illegal use of these programs.<br/>
  I am not accountable for anything you get into.<br/>
