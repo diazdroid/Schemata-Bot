@@ -68,7 +68,7 @@ I addded a lot of features to train different skills. You'll find them in config
 <br/>
 - Crash_status/Proxy_loc: No need to put anything.
 <br/>
-- IMPORTANT: If you want to use the "Alert" mode, you'll need to edit: "Sender_Mail", "Receiver_Mail" and the password of the sender in scripts/schemata.py to actually send and receive the alerts. 
+- IMPORTANT: If you want to use the "Alert" mode, you'll need to edit: "Sender_Mail", "Receiver_Mail" and the password of the sender in ./Scripts/Schemata.py (Line 73/76) to actually send and receive the alerts. 
 
 
 # Legal
