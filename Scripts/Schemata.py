@@ -70,10 +70,10 @@ else:
     sys.exit()
 
 if alerts:
-    Mail_Sender = "roboto277@outlook.fr"
-    Mail_SenderPwd = "Azerty321@"
+    Mail_Sender = "SENDER MAIL"
+    Mail_SenderPwd = "PASSWORD"
     #print("\n=================== \n\n[*] Please be careful to not spam or Outlook will ban your mail. \nYou can unlock it by verifying your account with your phone number or creat a new one. \n\n===================\n")
-    Mail_Receiver = "robotboy1800@gmail.com"
+    Mail_Receiver = "RECEIVER MAIL"
 
 if proxy_mode:
     prx_type = str(proxy_type).lower()
