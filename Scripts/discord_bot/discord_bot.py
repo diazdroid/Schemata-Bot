@@ -95,7 +95,7 @@ async def on_ready():  #  Called when internal cache is loaded
         av_skiptime = av_skiptime.rstrip('\n')
         now = now.rstrip('\n')
 
-        price_stream = 0.004
+        price_stream = 0.003
         session_money = price_stream * int(Total)
 
 
