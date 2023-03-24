@@ -67,6 +67,8 @@ I addded a lot of features to train different skills. You'll find them in config
 - Min/Max_skip: Choose minimum and maximum skip time. (45/75)
 <br/>
 - Crash_status/Proxy_loc: No need to put anything.
+<br/>
+- IMPORTANT: If you want to use the "Alert" mode, you'll need to edit: "Sender_Mail", "Receiver_Mail" and the password of the sender in scripts/schemata.py to actually send and receive the alerts. 
 
 
 # Legal
